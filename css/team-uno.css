@@ -19,3 +19,23 @@
     float : right;
     width : 70%;
 }
+
+
+#l-panel {
+    float : left;
+    width : 20%;
+    height : 100%;
+}
+
+#m-panel {
+    float : left;
+    width : 20%;
+    height : 100%;
+    
+}
+
+#r-panel {
+    float : left;
+    width : 60%;
+    height : 100%;
+}
