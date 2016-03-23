@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Audiowide);
+
+.teamuno-panel{
+    padding: 10px;
+}
+
+.teamuno-panel table {
+    width : 100%;
+    height : 100%;
+    padding : 10px;
+}
+
+#left-panel {
+    float : left;
+    width : 30%;
+}
+
+#right-panel {
+    float : right;
+    width : 70%;
+}
