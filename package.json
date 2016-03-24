@@ -1,0 +1,13 @@
+{
+    "name": "winslowdibona.unocss",
+    "title": "UnoCSS",
+    "description": "Simple Panel for viewing CSS files, classes, and class properties",
+    "homepage": "https://github.com/winslowdibona/UnoCSS",
+    "version": "1.0.0",
+    "author": "Winslow DiBona <winslow.dibona@gmail.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "keywords" : ["css"]
+}
