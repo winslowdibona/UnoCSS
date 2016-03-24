@@ -1,5 +1,3 @@
-@import url(http://fonts.googleapis.com/css?family=Audiowide);
-
 .teamuno-panel{
     padding: 10px;
 }
@@ -7,35 +5,34 @@
 .teamuno-panel table {
     width : 100%;
     height : 100%;
-    padding : 10px;
 }
-
-#left-panel {
-    float : left;
-    width : 30%;
-}
-
-#right-panel {
-    float : right;
-    width : 70%;
-}
-
 
 #l-panel {
     float : left;
     width : 20%;
     height : 100%;
+    margin-top : 10px;
+    margin-bottom : 10px;
 }
 
 #m-panel {
     float : left;
     width : 20%;
     height : 100%;
-    
+    margin-top : 10px;
+    margin-bottom : 10px;
+    margin-right : 5px;
+    margin-left : 5px;
 }
 
 #r-panel {
     float : left;
-    width : 60%;
+    width : 55%;
     height : 100%;
+    margin-top : 10px;
+    margin-bottom : 10px;
+}
+
+.verticalLine {
+    border-left: thick solid #ff0000;
 }
