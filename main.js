@@ -243,7 +243,6 @@ define(function (require, exports, module) {
                    }
                    UnoModel.classes.push(classes);
                    if(UnoModel.classes.length === UnoModel.files.length) {
-                       window.alert('about to create panel');
                        _panelManager.create();
                    }
                });
